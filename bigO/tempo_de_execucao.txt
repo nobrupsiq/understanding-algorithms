@@ -1,0 +1,10 @@
+* PESQUISA SIMPLES *
+- 100 items = 100 palpites
+- 4.000.000.000 = 4.000.000.000 palpites
+    O(n) Tempo de execução linear.
+
+* PESQUISA BINARIA *
+- 100 items = 7 palpites
+- 4.000.000.000 = 32 palpites
+    O(log n) Tempo de execução logarítmico
+
