@@ -22,4 +22,4 @@ const minha_lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const item = 9;
 
 const resultado = pesquisa_binaria(minha_lista, item);
-console.log(resultado);
+console.log(resultado + 1);
